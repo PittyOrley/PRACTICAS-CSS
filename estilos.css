@@ -1,0 +1,54 @@
+#cabecera{
+    background-color: #fae2e2;
+    padding: 10px;
+    color: #084b86;
+}
+#menu{
+    background-color: #bcd6ec;
+    padding: 10;
+    margin-bottom: 3px;
+}
+a.item_menu{
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+a.item_menu:hover{
+    background-color: #a3d0f8;
+}
+
+#parrafo1{
+    color: brown;
+    font-weight: bold;
+    text-align: right;
+}
+#parrafo2{
+    color: green;
+    font-weight: light;
+    text-align: center;
+}
+#parrafo3{
+    color: blue;
+    text-transform: uppercase;
+    text-align: justify;
+}
+.claseparrafos{
+    background-color: burlywood;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 20px;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#footer{
+    background-color: darkcyan;
+    color: white;
+    padding: 10px;
+    box-shadow: 10px 5px 5px gray;
+}
